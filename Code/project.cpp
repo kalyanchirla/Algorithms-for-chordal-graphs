@@ -448,7 +448,7 @@ vector<int> LEXBFS(vector<int>graph[], int vertices, int edges)
 int main()
 {
     // Comment the below line if you want to customly provide graph input
-    //freopen("input5.txt","r",stdin);
+    freopen("input.txt","r",stdin);
     
     //Taking the number of vertices and edges as input
     int vertices,edges;
